@@ -1,0 +1,2 @@
+git clone https://github.com/S...t/modtabchi.git && cd modtabchi && chmod 777 install.sh && ./install.sh
+lua creator.lua
